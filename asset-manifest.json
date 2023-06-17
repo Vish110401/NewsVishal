@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsVishal/static/css/main.073c9b0a.css",
+    "main.js": "/NewsVishal/static/js/main.8aad9d2a.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsVishal/static/js/787.4c026eef.chunk.js",
+    "index.html": "/NewsVishal/index.html",
+    "main.073c9b0a.css.map": "/NewsVishal/static/css/main.073c9b0a.css.map",
+    "main.8aad9d2a.js.map": "/NewsVishal/static/js/main.8aad9d2a.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsVishal/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8aad9d2a.js"
+  ]
+}
